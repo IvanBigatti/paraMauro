@@ -2,3 +2,20 @@ body {
     background-color: #d63384;
     margin: 0 auto;
     }
+
+ul.lista{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #f39bc3 ;
+    }
+
+div.logo_inicio{
+    background-color: #f39bc3;
+    background-image: url("imagenes/OIP.jpg");
+    background-size: 100%;
+    text-align: center;
+    height: 400px;
+    padding: 20px;
+    }
