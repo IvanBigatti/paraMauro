@@ -1,6 +1,5 @@
 body {
-    background-color: #d63384;
-    margin: 0 auto;
+    background-color: #ffe5ec;
     }
 
 ul.lista{
@@ -19,3 +18,15 @@ div.logo_inicio{
     height: 400px;
     padding: 20px;
     }
+
+#sobre_nosotros{
+    background-color: #ffe5ec; 
+    padding: 0%;
+    border: 0;
+}
+#contacto{
+    background-color: #ffe5ec; 
+    padding: 0%;
+    border: 0;
+}
+
