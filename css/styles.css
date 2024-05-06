@@ -2,31 +2,9 @@ body {
     background-color: #ffe5ec;
     }
 
-ul.lista{
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: #f39bc3 ;
+.font{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    
     }
 
-div.logo_inicio{
-    background-color: #f39bc3;
-    background-image: url("imagenes/OIP.jpg");
-    background-size: 100%;
-    text-align: center;
-    height: 400px;
-    padding: 20px;
-    }
-
-#sobre_nosotros{
-    background-color: #ffe5ec; 
-    padding: 0%;
-    border: 0;
-}
-#contacto{
-    background-color: #ffe5ec; 
-    padding: 0%;
-    border: 0;
-}
 
